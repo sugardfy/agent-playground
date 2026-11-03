@@ -1,3 +1,3 @@
 # Notes
 
-Self-test playground for the dsh-superagent agent.
+Self test playground for the dsh-superagent agent.
